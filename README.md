@@ -20,8 +20,7 @@ This project focuses on developing an **AI-Powered Workforce Analytics & Talent 
 
 # Solution:
 
-![Uploading image.png…]()
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0988d637-358e-484b-831f-11067ec2e2a0" />
 
 ---
 
